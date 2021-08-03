@@ -1,2 +1,6 @@
 ide-target-platform
 workspace
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
